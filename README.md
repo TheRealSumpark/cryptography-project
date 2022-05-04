@@ -1,3 +1,2 @@
-# A script providing encryption of files using various methods.
+### Encrypting files using PyCrypto.
 
-## Dependency : PyCrypto
